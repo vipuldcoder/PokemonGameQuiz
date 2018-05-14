@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="backgroundColor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors For Team A section -->
+    <color name="color_teams">#ffffff</color>
+
+    <!-- TeamA Score Section -->
+    <color name="buttonPurple">#E1F5FE</color>
+    <color name="textColor">#ffffff</color>
+    <color name="waveColor_a">#E3F2FD</color>
+    <color name="waveColor_b">#EDE7F6</color>
+    <color name="score_color">#000000</color>
+    <color name="color_title">#616161</color>
+    <color name="background_a">#1976D2</color>
+    <color name="background_b">#512DA8</color>
+</resources>
